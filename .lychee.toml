@@ -1,0 +1,26 @@
+# Configuration for lychee link checker
+# Sites below return 202/400/403/412/429 to automated CI bots despite being live in browsers.
+exclude = [
+  "^https://x\\.com/",
+  "^https://twitter\\.com/",
+  "^https://www\\.hidive\\.com/",
+  "^https://www\\.sentaifilmworks\\.com/",
+  "^https://www\\.bilibili\\.com/",
+  "^https://tamakomarket\\.fandom\\.com/",
+  "^https://zh\\.moegirl\\.org\\.cn/",
+  "^https://dic\\.pixiv\\.net/",
+  "^https://anidb\\.net/",
+  "^https://www\\.imdb\\.com/",
+  "^https://letterboxd\\.com/",
+  "^https://movie\\.douban\\.com/",
+  "^https://vgmdb\\.net/",
+  "^https://likeafishinwater\\.com/",
+  "^https://www\\.reddit\\.com/",
+  "^https://tieba\\.baidu\\.com/",
+]
+
+accept = [200, 204, 206, 429]
+max_retries = 2
+retry_wait_time = 2
+timeout = 20
+user_agent = "Mozilla/5.0 (compatible; AwesomeLinkCheck/1.0)"
