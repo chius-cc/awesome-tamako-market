@@ -124,9 +124,8 @@
 
 ## 相关列表
 
-- [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - 《日常》精选资源清单（京都动画，2011）。
-- [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - 《CITY THE ANIMATION》精选资源清单（京都动画，2025）。
-- [awesome-ghibli-images](https://github.com/chius-me/awesome-ghibli-images) - 吉卜力官方高清剧照画廊与数据集。
+- [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - 《日常》精选资源清单。
+- [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - 《CITY THE ANIMATION》精选资源清单。
 
 ---
 

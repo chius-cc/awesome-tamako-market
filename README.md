@@ -124,9 +124,8 @@ Curated resources for **Tamako Market** & **Tamako Love Story** (*Kyoto Animatio
 
 ## Related Lists
 
-- [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - Resources for *Nichijou* (Kyoto Animation, 2011).
-- [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - Resources for *CITY THE ANIMATION* (Kyoto Animation, 2025).
-- [awesome-ghibli-images](https://github.com/chius-me/awesome-ghibli-images) - Studio Ghibli official still galleries and dataset.
+- [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - Resources for *Nichijou* (2011).
+- [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - Resources for *CITY THE ANIMATION* (2025).
 
 ---
 
