@@ -1,5 +1,5 @@
 # Configuration for lychee link checker
-# Sites below return 202/400/403/412/429 to automated CI bots despite being live in browsers.
+# Sites below return 202/400/403/412/429 or time out to automated CI bots despite being live in browsers.
 exclude = [
   "^https://x\\.com/",
   "^https://twitter\\.com/",
@@ -14,9 +14,11 @@ exclude = [
   "^https://letterboxd\\.com/",
   "^https://movie\\.douban\\.com/",
   "^https://vgmdb\\.net/",
+  "^https://blog\\.alltheanime\\.com/",
   "^https://likeafishinwater\\.com/",
   "^https://www\\.reddit\\.com/",
   "^https://tieba\\.baidu\\.com/",
+  "^https://forum\\.gamer\\.com\\.tw/",
 ]
 
 accept = [200, 204, 206, 429]
