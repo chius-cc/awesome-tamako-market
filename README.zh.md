@@ -10,7 +10,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
-[![Link Check](https://github.com/chius-me/awesome-tamako-market/actions/workflows/links.yml/badge.svg)](https://github.com/chius-me/awesome-tamako-market/actions/workflows/links.yml)
+[![Link Check](https://github.com/chius-n/awesome-tamako-market/actions/workflows/links.yml/badge.svg)](https://github.com/chius-n/awesome-tamako-market/actions/workflows/links.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -124,8 +124,8 @@
 
 ## 相关列表
 
-- [awesome-nichijou](https://github.com/chius-me/awesome-nichijou) - 《日常》精选资源清单。
-- [awesome-citytheanimation](https://github.com/chius-me/awesome-citytheanimation) - 《CITY THE ANIMATION》精选资源清单。
+- [awesome-nichijou](https://github.com/chius-n/awesome-nichijou) - 《日常》精选资源清单。
+- [awesome-citytheanimation](https://github.com/chius-n/awesome-citytheanimation) - 《CITY THE ANIMATION》精选资源清单。
 
 ---
 
